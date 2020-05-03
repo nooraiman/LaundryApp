@@ -1,2 +1,2 @@
 # LaundryApp
- Project on semester 3 using javaz
+This project was coded during my semester 3 using JAVA programming language
