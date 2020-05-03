@@ -9,3 +9,5 @@ The program also can summarize all of the information stored in it such as:-
 • The total sale of the service' detergents.
 • Total accumulated price for each washer with different temperature and each dryer with different weight capacity.
 
+Screenshot of program output: 
+![](/Screenshot/screenshot1.png)
